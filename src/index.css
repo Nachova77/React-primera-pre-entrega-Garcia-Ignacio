@@ -40,3 +40,7 @@ body {
 .cartBox {
   margin: 30px 40px;
 }
+
+.greeting {
+  text-align: center;
+}
